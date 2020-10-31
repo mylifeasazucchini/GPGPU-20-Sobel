@@ -1,5 +1,5 @@
-Student: Aakif Nawaz
-Student Number: 0555451
+->Student: Aakif Nawaz
+->Student Number: 0555451
 
 ### How to run ####
 
@@ -10,8 +10,8 @@ Student Number: 0555451
 
 ### Prelimnary Observation (with Lena Image) ###
 
-Data allocation and transfer time (milliseconds) GPU =  0.4154951311647892
-Computation time (milliseconds) GPU =  0.6746039725840092
-Result transfer time (milliseconds) GPU =  0.3938288427889347
-Total time (milliseconds) GPU =  1.4844979159533978
-Total time (milliseconds) CPU =  43.22202270850539
+->Data allocation and transfer time (milliseconds) GPU =  0.4154951311647892
+->Computation time (milliseconds) GPU =  0.6746039725840092
+->Result transfer time (milliseconds) GPU =  0.3938288427889347
+->Total time (milliseconds) GPU =  1.4844979159533978
+->Total time (milliseconds) CPU =  43.22202270850539
