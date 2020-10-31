@@ -1,5 +1,3 @@
-### About ###
-
 Student: Aakif Nawaz
 Student Number: 0555451
 
