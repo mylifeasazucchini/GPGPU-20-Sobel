@@ -1,10 +1,12 @@
+# Implementing Sobel Edge Detection in GPU and CPU
+
 ->Student: Aakif Nawaz 
 
 ->Student Number: 0555451
 
 ### How to run ####
 
--> Just make sure the Image(RGB IMAGE!!!) and the python code are in the same file and run.
+-> Just make sure the Image(RGB IMAGE!!!) and the python code are in the same directory and run.
 
 -> Specify the file name on Line 18 - "imageFileName"
 
